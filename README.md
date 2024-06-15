@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**CaiowRG/CaiowRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou Caio Ribeiro Gonçalves, um entusiasta de 20 anos no mundo da tecnologia e programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nome:** Caio Ribeiro Gonçalves
+- **Idade:** 20
+- **Localização:** Natal, RN, Brasil
+
+## Interesses
+
+- **Desenvolvimento Web:** Apaixonado por criar sites e aplicativos web incríveis usando HTML, CSS e JavaScript.
+- **Desenvolvimento de Jogos:** Explorando o mundo do desenvolvimento de jogos com Unity e C#.
+- **Inteligência Artificial:** Fascinado pelo potencial da IA e aprendizado de máquina.
+
+## Projetos
+
+Atualmente estou trabalhando em alguns projetos pessoais e aprendendo novas tecnologias!
+
+## Conecte-se Comigo
+
+- **GitHub:** [CaioWRG](https://github.com/CaioWRG)
+- **Email:** caioribgon@egmail.com
+
+Ansioso para colaborar e crescer juntos nesta comunidade incrível!
