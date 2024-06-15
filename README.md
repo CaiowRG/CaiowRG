@@ -20,7 +20,7 @@ Atualmente estou trabalhando em alguns projetos pessoais e aprendendo novas tecn
 
 ## Conecte-se Comigo
 
-- **GitHub:** [CaioWRG](https://github.com/CaioWRG)
+- **GitHub:** [CaiowRG](https://github.com/CaioWRG)
 - **Email:** caioribgon@egmail.com
 
 Ansioso para colaborar e crescer juntos nesta comunidade incrível!
